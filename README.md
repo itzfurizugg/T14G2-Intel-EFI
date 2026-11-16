@@ -10,9 +10,9 @@ I'm using ThinkPad T14 Gen 2 (Intel) with this specification, please make sure n
 | **Hardware** | **Specs**                |
 |:-------------|:-------------------------|
 | Processor    | Intel Core i5-1145G7     |
+| Graphics     | Intel Iris Xe            |
 | RAM          | 16GB DDR4 3200MHz        |
 | SSD          | SKHynix 512GB NVMe BC511 |
-| Graphics     | Intel Iris Xe            |
 | WiFi         | Intel AX201              |
 | Bluetooth    | Intel Wireless Bluetooth |
 | Touchpad     | Synaptic HID             |
@@ -42,7 +42,6 @@ What's working hardware on this EFI, almost everything is working
 | Bluetooth            | ✅         |
 | Power Management     | ✅         |
 | Audio                | ✅         |
-| LAN                  | ✅         |
 | SSD                  | ✅         |
 | HID                  | ✅         |
 | USB Port             | ✅         |
@@ -56,6 +55,7 @@ What's working hardware on this EFI, almost everything is working
 | Apple Service        | ⚠️         |
 | Biometric            | ❌         |
 | SDCard               | ❌         |
+| LAN                  | Not tested |
 | Backlight Keyboard   | Not tested |
 | Microphone           | Not tested |
 | Airdrop              | Not tested |
